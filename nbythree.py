@@ -11,3 +11,4 @@ for num in mpp:
     if mpp[num] > (n//3):
         res.append(num)
 print(res)
+
